@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": { "*.css": "tailwindcss" },
+  "files.readonlyInclude": { "**/routeTree.gen.ts": true }
+}
